@@ -4,8 +4,8 @@ const middle = require('./middle.js');
 
 
 module.exports = {
-  head: head,
-  tail: tail,
-  middle: middle, 
+  head,
+  tail,
+  middle, 
 };
 
